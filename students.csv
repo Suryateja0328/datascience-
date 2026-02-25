@@ -1,0 +1,6 @@
+StudentID,FirstName,LastName,Gender,DateOfBirth,Class,Section,RollNumber,PhoneNumber,Email,Address,Marks_Maths,Marks_Science,Marks_English,TotalMarks,Grade
+1001,Rahul,Kumar,Male,2005-03-15,10,A,1,9876543210,rahul.kumar@email.com,Hyderabad,85,78,88,251,A
+1002,Anjali,Sharma,Female,2006-07-22,10,A,2,9123456780,anjali.sharma@email.com,Warangal,92,81,79,252,A
+1003,Vikram,Reddy,Male,2005-11-10,10,B,3,9988776655,vikram.reddy@email.com,Vijayawada,74,69,72,215,B
+1004,Sneha,Patel,Female,2006-01-05,10,B,4,9090909090,sneha.patel@email.com,Karimnagar,88,90,85,263,A+
+1005,Akhil,Varma,Male,2005-09-18,10,A,5,9345678901,akhil.varma@email.com,Nizamabad,60,65,70,195,C
